@@ -219,16 +219,16 @@ And your CORS config must have `credentials: true` with the exact frontend origi
 
 ---
 
-## 📬 Contact
+<!-- ## 📬 Contact -->
 
-Have feedback, questions, or just want to connect?
+<!-- Have feedback, questions, or just want to connect?
 
 | Platform | Link |
 |----------|------|
 | 📧 Email | [dileepkumawat525@gmail.com](mailto:dileepkumawat525@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/dileep-kumawat](https://www.linkedin.com/in/dileep-kumawat/) |
 | 🐦 Twitter / X | [@dilsecode](https://x.com/dilsecode) |
-| 🌐 Portfolio | [portfolio.dev](https://dileep3.netlify.app) |
+| 🌐 Portfolio | [portfolio.dev](https://dileep3.netlify.app) | -->
 
 ---
 
@@ -240,7 +240,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 
 <div align="center">
 
-Made with ♥ and a lot of ☕ by **[Dileep kumawat](https://dileep3.netlify.app)**
+<!-- Made with ♥ and a lot of ☕ by **[Dileep kumawat](https://dileep3.netlify.app)** -->
 
 ⭐ If you found this useful, consider giving it a star on GitHub!
 
